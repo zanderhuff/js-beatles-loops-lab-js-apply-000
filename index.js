@@ -4,7 +4,7 @@ var musicians = []
 
 var theBeatlesPlay = function (musicians, instruments) {
   var var1 = []
-  for (i in musicians; i > 1; i++)
+  for (let i = 0; i>musicians.length; i++)
   
   
 }
