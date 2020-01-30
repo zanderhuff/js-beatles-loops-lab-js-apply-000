@@ -1,6 +1,6 @@
 // add solution here
-const instruments = ["guitar", "bass guitar"]
-const musicians = ["John Lennon", "Paul McCartney"]
+const instruments = ["guitar", "bass guitar", "drums"]
+const musicians = ["John Lennon", "Paul McCartney", "Tommy Moore"]
 
 
 var theBeatlesPlay = function (musicians, instruments) {
