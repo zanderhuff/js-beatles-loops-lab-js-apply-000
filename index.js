@@ -8,3 +8,5 @@ var theBeatlesPlay = function (musicians, instruments) {
     newlist += musicians + " plays " + instruments + " ."
   }
 }
+
+console.log(theBeatlesPlay())
