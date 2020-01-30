@@ -1,7 +1,6 @@
 // add solution here
-// const instruments = ["guitar", "bass guitar", "drums"]
-// const musicians = ["John Lennon", "Paul McCartney", "Tommy Moore"]
-
+const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"]
+const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"]
 
 var theBeatlesPlay = function (musicians, instruments) {
   let newList = []
@@ -9,5 +8,3 @@ var theBeatlesPlay = function (musicians, instruments) {
     newlist += musicians + " plays " + instruments + " ."
   }
 }
-
-theBeatlesPlay("John Lennon", "guitar")
