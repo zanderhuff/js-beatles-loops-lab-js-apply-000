@@ -1,6 +1,6 @@
 // add solution here
-const instruments = []
-const musicians = []
+const instruments = ["guitar", ""]
+const musicians = ["John Lennon", ""]
 
 
 var theBeatlesPlay = function (musicians, instruments) {
